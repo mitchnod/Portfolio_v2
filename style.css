@@ -82,8 +82,9 @@ li{
 }
 
 #about_img img{
-    height: 350px;
+    height: 300px;
     border: 5px solid rgb(55,63,86);
+    border-radius: 50%;
 }
 
 #frontend{
