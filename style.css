@@ -28,7 +28,7 @@
 }
 
 .border_mp{
-    border: 1px solid rgb(55,63,86);
+    border: 3px solid rgb(55,63,86);
     padding: 10px;
     margin: 10px;
 }
@@ -65,7 +65,7 @@ ul{
 }
 
 li{
-    padding: 5px 0px 5px 0px;
+    padding: 5px 0;
 }
 
 #home{
@@ -83,20 +83,20 @@ li{
 
 #about_img img{
     height: 300px;
-    border: 5px solid rgb(55,63,86);
+    border: 3px solid rgb(55,63,86);
     border-radius: 50%;
 }
 
 #frontend{
-    border: 2px solid rgb(220,95,89);
+    border: 3px solid rgb(220,95,89);
 }
 
 #backend{
-    border: 2px solid rgb(75,153,233);
+    border: 3px solid rgb(75,153,233);
 }
 
 #design{
-    border: 2px solid rgb(241,191,89);
+    border: 3px solid rgb(241,191,89);
 }
 
 
